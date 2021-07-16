@@ -1,0 +1,36 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.container2 {
+  width: 90%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'italic', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #E8F6EF;
+}
+
+p {
+  font-size: 2rem;
+  color: #71EFA3;
+  font-family: 'italic', cursive;
+}
+
+img {
+  width: 80%;
+}

@@ -1,0 +1,33 @@
+h1{
+
+  margin: 0 auto;
+}
+h3,h2{
+  font-family: papyrus;
+}
+p{
+  font-family: papyrus;
+}
+body{
+margin: 0;
+text-align: center;
+font-family: "Brush Script MT", cursive; font-size: 20px;
+ font-weight: 600; line-height: 26.4px;
+color: purple;
+}
+.details{
+  background-color:#cca8e9;
+  display: block;
+  padding: 20px;
+  border: 10px;
+}
+.topcloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottomcloud{
+  position: absolute;
+  left:300px;
+  bottom:500px;
+}
